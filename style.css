@@ -36,6 +36,12 @@ img{padding: 10px;
 a{text-decoration: none;
   }
 
+  .subcontainers:hover {
+    background-color: rgb(253, 175, 187);
+    transition: background-color 0.5s;
+  }
+
+
 .portadaWidth{border-radius: 12%;
                 width: 150px;}
 
